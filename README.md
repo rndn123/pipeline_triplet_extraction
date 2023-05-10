@@ -1,7 +1,7 @@
 # pipeline_triplet_extraction
 #Preprocessed Dataset
 
-This directory contain preprocessed NCG dataset in csv format
+The present directory comprises the preprocessed NCG dataset in csv format for all three tasks, as well as the Scaffold dataset and an additional dataset for the phrase extraction model : https://drive.google.com/drive/folders/1S2ywPcOF0QPxeGlrQ0XhU7Ms4RFq40Rs?usp=sharing.
 
 # Task A
 
